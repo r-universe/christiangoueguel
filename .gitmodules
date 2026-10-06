@@ -1,10 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/christiangoueguel/christiangoueguel.r-universe.dev
 	branch = HEAD
 [submodule "ConfidenceEllipse"]
 	path = ConfidenceEllipse
-	url = https://github.com/christiangoueguel/confidenceellipse
+	url = https://github.com/ChristianGoueguel/ConfidenceEllipse
 [submodule "HotellingEllipse"]
 	path = HotellingEllipse
-	url = https://github.com/christiangoueguel/hotellingellipse
+	url = https://github.com/ChristianGoueguel/HotellingEllipse
+[submodule "lwpls"]
+	path = lwpls
+	url = https://github.com/ChristianGoueguel/lwpls
+[submodule "specProc"]
+	path = specProc
+	url = https://github.com/ChristianGoueguel/specProc
