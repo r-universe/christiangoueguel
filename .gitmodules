@@ -11,6 +11,9 @@
 [submodule "lwpls"]
 	path = lwpls
 	url = https://github.com/ChristianGoueguel/lwpls
+[submodule "manifoldsculpting"]
+	path = manifoldsculpting
+	url = https://github.com/ChristianGoueguel/manifold-sculpting
 [submodule "specProc"]
 	path = specProc
 	url = https://github.com/ChristianGoueguel/specProc
